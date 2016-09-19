@@ -2,7 +2,7 @@ FROM node:latest
 
 MAINTAINER Dan Wahlin
 
-ENV CONTAINER_PATH /var/www/angular2restfulservice
+ENV CONTAINER_PATH /var/www/r
 
 WORKDIR   $CONTAINER_PATH
 
